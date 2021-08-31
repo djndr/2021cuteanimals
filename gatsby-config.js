@@ -36,7 +36,7 @@ module.exports = {
           },
         },
         // url: process.env.WPGRAPHQL_URL,
-        url: `https://www.dailycatchat.com/graphql`,
+        url: `https://bestcuteanimals.com/graphql`,
         verbose: true,
         develop: {
           hardCacheMediaFiles: false,
